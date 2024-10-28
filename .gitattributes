@@ -1,0 +1,4 @@
+*.txt linguist-detectable
+*.jpg linguist-detectable
+*.lockedimg linguist-detectable
+*.h linguist-detectable

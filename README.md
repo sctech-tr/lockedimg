@@ -50,4 +50,4 @@ To remove the executable and object files:
 make clean
 ```
 ## License
-MIT License
+Apache-2.0 License
